@@ -1,0 +1,40 @@
+{
+    "contacts": {
+        "address": "123 Anywhere St. Any City, State, Country, 12345",
+        "email": "hello@reallygreatsite.com",
+        "phone": "(123) 456-7890"
+    },
+    "productRoute": "/products/",
+    "products": [
+        {
+            "slug": "item1",
+            "name": "Item1",
+            "description": "First product",
+            "image": "plant.jpg"
+        },
+        {
+            "slug": "item2",
+            "name": "Item2",
+            "description": "Second product",
+            "image": "plant.jpg"
+        },
+        {
+            "slug": "item3",
+            "name": "Item3",
+            "description": "Third product",
+            "image": "plant.jpg"
+        },
+        {
+            "slug": "item4",
+            "name": "Item4",
+            "description": "Fourth product",
+            "image": "plant.jpg"
+        },
+        {
+            "slug": "product-overflow",
+            "name": "Product Overflow",
+            "description": "This item is not shown on navigation bar because it limits product links to 4.",
+            "image": "plant.jpg"
+        }
+    ]
+}
